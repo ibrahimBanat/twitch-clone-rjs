@@ -41,7 +41,13 @@ const Profile = () => {
                 </div>
                 <div className="profile__categories">
                     <h2>Sub-try's recently streamed Categories</h2>
-                    <img src="https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us.jpg"/>
+                    <div className="profile__categoriesPhotos">
+
+                        <img src="https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us.jpg"/>
+                        <img src="https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends.jpg"/>
+                        <img src="https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting.jpg"/>
+                    </div>
+
                     <h3>Strategy & Survival</h3>
                 </div>
             </div>

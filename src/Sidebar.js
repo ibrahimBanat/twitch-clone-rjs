@@ -22,12 +22,7 @@ const Sidebar = () => {
                 <p className="sidebar__topShowMore">Show More</p>
             
             </div>
-            <div className="sidebar__bottom">
-                <div className="sidebar__bottomContainer">
-                    <i className="fas fa-search"></i>
-                    <input type="text" placeholder='Search to Add Friends'/>
-                </div>
-            </div>
+            
         </div>
     )
 }
