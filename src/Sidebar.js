@@ -12,7 +12,7 @@ const Sidebar = () => {
                     name='Sub-try'
                     followers='450k'/>
                 <Channel avatar='https://pbs.twimg.com/media/ES8dJM-X0AAZjDZ.png'
-                    name='Afrodite Gal'
+                    name='Afrodite'
                     followers='1.2M'/>
                 <h5>RECOMMENDED CHANNELS</h5>
                 <Channel avatar='https://img1.pnghut.com/4/0/5/ebu8Dy1suK/facial-expression-fictional-character-face-internet-forum-mammal.jpg'

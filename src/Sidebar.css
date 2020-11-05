@@ -49,3 +49,20 @@
     width: 100%;
     margin-left: 10px;
 }
+
+.channel__details>p { 
+    margin-left: 10px;
+    
+
+}
+
+.channel__details { 
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: small;
+}
+
+.channel>p { 
+    font-size: small;
+}
+
