@@ -1,8 +1,13 @@
 .body { 
 
-   background-color: rgb(255, 153, 0);
+   background: rgb(238,174,202);
+   background: linear-gradient(0deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
    display: flex;
    flex: 1;
    height: 100vh;
    overflow: scroll;
+}
+
+.body__left { 
+   width: 96%;
 }
